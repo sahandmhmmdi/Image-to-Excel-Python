@@ -1,3 +1,6 @@
+
+OCR image processing project using EasyOCR to extract numeric tables from images and export to Excel using Python and Pandas.
+
 # 🧠 Image to Excel – OCR Table Extractor
 
 This Python project allows you to extract numerical data from industrial measurement images using **EasyOCR**, clean and structure the data, and export it to an Excel file.
